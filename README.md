@@ -1,5 +1,7 @@
-# pixivSpider
-P站爬虫，根据画师ID下载全部图片
+# pixivDownloader
+P站下载器，根据画师ID下载全部图片
+
+------
 
 仅支持下载图片
 
